@@ -72,7 +72,7 @@
 
 </div>
 
-![snake gif](https://github.com/Sayahnneeta/Sayahnneeta/blob/output/github-contribution-grid-snake.gif)
+
 <hr>
 >We're living in the future so <br>
 >the present is our past.
