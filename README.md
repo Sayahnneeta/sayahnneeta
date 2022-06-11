@@ -1,4 +1,4 @@
-### Hi there, this is SAYAHNNEETA DUTTA the other side <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
+### Hi there, this is SAYAHNNEETA DUTTA the other side <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=".5px" height= "25px">
 
 
 
