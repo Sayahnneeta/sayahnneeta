@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently pursuing my 2nd year Undergraduate in **_Computer Science and Engineering_** from [Natioanl Institute of Technology Silchar.](http://www.nits.ac.in/)
+- 🔭 I’m currently pursuing my final year Undergraduate in **_Computer Science and Engineering_** from [Natioanl Institute of Technology Silchar.](http://www.nits.ac.in/)
 - 🌱 I’m an amateur in the field of Web Development and Competitive Programing.
 - 💬 I take interest in creative writings and such similar endeavour.
 - 💬 Ask me about what must be the next book on your to-do-list.
